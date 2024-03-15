@@ -17,7 +17,10 @@ I like electronic music, rock, games, anime and I have a son under a year old.
 
 
 # :closed_book: Academy journey
-I'm in my second semester at Science Computing in UNIFAVIP. So far I've learned about different programming paradigms in Python with a focus on OOP, different data structures such as queues, stacks, deques and trees also in Pyhton, web development with HTML, CSS, JS and PHP, cloud computing in GCP, AWS and Azure, modeling and implementing a SQL database, Unified Modeling Language and I was introduced to the concepts of information security.
+I'm in my third semester of Computer Science at UNIFAVIP. So far I've learned about different programming paradigms in Python with a focus on OOP, different data structures such as queues, stacks, deques and trees also in Pyhton, web development with HTML, CSS, JS and PHP, cloud computing in GCP, AWS and Azure, modeling and implementing a SQL database, Unified Modeling Language and I've been introduced to information security concepts.
+
+
+Translated with DeepL.com (free version)
 
 # 📊 GitHub Stats
 <div align="center">  
