@@ -20,8 +20,6 @@ I like electronic music, rock, games, anime and I have a son under a year old.
 I'm in my third semester of Computer Science at UNIFAVIP. So far I've learned about different programming paradigms in Python with a focus on OOP, different data structures such as queues, stacks, deques and trees also in Pyhton, web development with HTML, CSS, JS and PHP, cloud computing in GCP, AWS and Azure, modeling and implementing a SQL database, Unified Modeling Language and I've been introduced to information security concepts.
 
 
-Translated with DeepL.com (free version)
-
 # 📊 GitHub Stats
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ferrazrezende&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF4&text_color=00BFFF&bg_color=0d1117" alt="Matheus Ferraz Github stats" /> 
